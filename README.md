@@ -1,23 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Background Music</title>
-    <style>
-        /* Hide the audio element */
-        #bg-music {
-            display: none;
-        }
-    </style>
-</head>
-<body>
-    <!-- Audio element to play the music -->
-    <audio id="bg-music" autoplay loop>
-        <source src=""https://github.com/Abdulm01z/Abdulm01z/blob/main/bgmusic.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-    </audio>
-    
-</body>
-</html>
+<audio autoplay loop>
+  <source src="https://github.com/Abdulm01z/Abdulm01z/blob/main/bgmusic.mp3" type="audio/mpeg">
+</audio>
 
 
 
