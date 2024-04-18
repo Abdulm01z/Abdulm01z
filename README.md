@@ -1,4 +1,4 @@
-![music]("https://github.com/Abdulm01z/Abdulm01z/blob/main/bgmusic.mp3" type="audio/mpeg">)
+![music]("https://github.com/Abdulm01z/Abdulm01z/blob/main/bgmusic.mp3")
 
 ![logo](https://github.com/Abdulm01z/Abdulm01z/blob/main/cover.png)
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
