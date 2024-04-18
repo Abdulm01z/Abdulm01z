@@ -1,5 +1,4 @@
- <audio id="bg-music" autoplay loop>
-        <source src="https://github.com/Abdulm01z/Abdulm01z/blob/main/bgmusic.mp3" type="audio/mpeg">
+![music]("https://github.com/Abdulm01z/Abdulm01z/blob/main/bgmusic.mp3" type="audio/mpeg">)
 
 ![logo](https://github.com/Abdulm01z/Abdulm01z/blob/main/cover.png)
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
