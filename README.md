@@ -1,3 +1,6 @@
+ <audio id="bg-music" autoplay loop>
+        <source src="path_to_your_mp3_file.mp3" type="audio/mpeg">
+
 ![logo](https://github.com/Abdulm01z/Abdulm01z/blob/main/cover.png)
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
 <h3 align="center">Artificial Intelligence, Web 3.0 & Metaverse</h3>
