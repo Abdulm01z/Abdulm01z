@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
 <h3 align="center">Artificial Intelligence, Web 3.0 & Metaverse</h3>
 
-<src="https://giphy.com/embed/GFLB1pCmhgvIDSJTvp" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulm01z&label=Profile%20views&color=0e75b6&style=flat" alt="abdulm01z" /> </p>
 
