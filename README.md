@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
 <h3 align="center">Artificial Intelligence, Web 3.0 & Metaverse</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2e5d5196099ccd96c5833d8c0eea8ed39e2bdcf90d56056a4abe4b5ea20a0895/68747470733a2f2f6d656469612e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulm01z&label=Profile%20views&color=0e75b6&style=flat" alt="abdulm01z" /> </p>
 
