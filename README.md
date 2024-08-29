@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
 <h3 align="center">Artificial Intelligence, Web 3.0 & Metaverse</h3>
 
-<img align="right" alt="coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07a49d15-10a4-45b9-b14a-2e0095b90d21/ddwfbum-f7110396-1b75-433d-bba8-1e03215eacaa.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3YTQ5ZDE1LTEwYTQtNDViOS1iMTRhLTJlMDA5NWI5MGQyMVwvZGR3ZmJ1bS1mNzExMDM5Ni0xYjc1LTQzM2QtYmJhOC0xZTAzMjE1ZWFjYWEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1unHG5aTh7SHe2NPYmNK0y5R0uYleIRkDX6f3oMTjFA">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulm01z&label=Profile%20views&color=0e75b6&style=flat" alt="abdulm01z" /> </p>
 
